@@ -10,11 +10,11 @@ Delay(s): 5<br>
 Loading proxy list..<br>
 5 proxies loaded.<br>
 Starting..<br>
-proxy: 199.200.120.36:8089 id: 3800680 choice: 0<br>
-proxy: 137.135.166.225:8118 id: 3800680 choice: 0<br>
-proxy: 131.109.42.105:80 id: 3800680 choice: 0<br>
-proxy: 69.197.148.18:7808 id: 3800680 choice: 0<br>
-proxy: 69.197.148.18:8089 id: 3800680 choice: 0<br>
+ip: 199.200.120.36:8089 id: 3800680 choice: 0<br>
+ip: 137.135.166.225:8118 id: 3800680 choice: 0<br>
+ip: 131.109.42.105:80 id: 3800680 choice: 0<br>
+ip: 69.197.148.18:7808 id: 3800680 choice: 0<br>
+ip: 69.197.148.18:8089 id: 3800680 choice: 0<br>
 Done.
 
 
