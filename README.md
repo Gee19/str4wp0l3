@@ -2,8 +2,6 @@
 
 POST doesn't work, pretty sure Straw Poll changed their API. Been messing with Simple REST Client to get it to work but been kinda busy.
 
-Usage:
-C:\Python34\python.exe C:/Users/Gee19/Desktop/str4wp0l3.py
 
 str4wp0l3 by g19
 Poll ID: 3800680
