@@ -14,8 +14,8 @@ def vote(proxy, poll, c, d):
             proxy_support = urllib.request.ProxyHandler(proxy)
             opener = urllib.request.build_opener(proxy_support, urllib.request.HTTPHandler(debuglevel=1))
             urllib.request.install_opener(opener)
-
-            urllib.request.Request('http://strawpoll.me/ajax/vote', {'id': poll, 'votes': [c]}, headers)  # don't work
+            #  found out how their api works, some1 halp
+            urllib.request.Request('http://strawpoll.me/api/v2/polls/' + poll, {'votes': [c]}, headers)
         except urllib.request.URLError:
             print("Error grabbing URL")
     finally:
