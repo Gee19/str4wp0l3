@@ -3,7 +3,7 @@
 POST doesn't work, pretty sure Straw Poll changed their API. Been messing with Simple REST Client but been kinda busy since they changed it.
 
 <b>str4wp0l3 by g19</b><br>
-Poll ID: 3800680<br>
+Poll ID: 3800716<br>
 Choice (0 is first): 0<br>
 Proxy list(ip:port): proxy.txt<br>
 Delay(s): 5<br>
