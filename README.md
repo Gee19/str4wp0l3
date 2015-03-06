@@ -8,11 +8,9 @@ Poll ID: 3800680<br>
 Choice (0 is first): 0<br>
 Proxy list(ip:port): proxy.txt<br>
 Delay(s): 5<br>
-
-Loading proxy list..
-5 proxies loaded.
-Starting..
-
+Loading proxy list..<br>
+5 proxies loaded.<br>
+Starting..<br>
 proxy: 199.200.120.36:8089 id: 3800680 choice: 0<br>
 proxy: 137.135.166.225:8118 id: 3800680 choice: 0<br>
 proxy: 131.109.42.105:80 id: 3800680 choice: 0<br>
