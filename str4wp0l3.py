@@ -7,7 +7,7 @@ from threading import Thread
 def vote(proxy, poll, c, d):
     try:
         try:
-            print('proxy: ' + proxy, "id: " + poll, 'choice: ' + c)
+            print('ip: ' + proxy, "id: " + poll, 'choice: ' + c)
             ip = '.'.join([str(random.randint(1, 255)) for _ in range(4)])  # generate random ip for header
             headers = {'X-Requested-With': 'XMLHttpRequest', 'X-Forwarded-For': ip}
             proxy = {"http": "http://%s" % proxy}
