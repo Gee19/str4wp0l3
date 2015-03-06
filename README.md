@@ -4,9 +4,13 @@ POST doesn't work, pretty sure Straw Poll changed their API. Been messing with S
 
 
 str4wp0l3 by g19
+
 Poll ID: 3800680
+
 Choice (0 is first): 0
+
 Proxy list(ip:port): proxy.txt
+
 Delay(s): 5
 
 Loading proxy list..
