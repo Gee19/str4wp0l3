@@ -12,8 +12,11 @@ Proxy list(ip:port): proxy.txt
 Delay(s): 5
 
 Loading proxy list..
+
 5 proxies loaded.
+
 Starting..
+
 proxy: 199.200.120.36:8089 id: 3800680 choice: 0
 proxy: 137.135.166.225:8118 id: 3800680 choice: 0
 proxy: 131.109.42.105:80 id: 3800680 choice: 0
