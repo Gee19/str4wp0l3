@@ -18,10 +18,15 @@ Loading proxy list..
 Starting..
 
 proxy: 199.200.120.36:8089 id: 3800680 choice: 0
+
 proxy: 137.135.166.225:8118 id: 3800680 choice: 0
+
 proxy: 131.109.42.105:80 id: 3800680 choice: 0
+
 proxy: 69.197.148.18:7808 id: 3800680 choice: 0
+
 proxy: 69.197.148.18:8089 id: 3800680 choice: 0
+
 Done.
 
 
